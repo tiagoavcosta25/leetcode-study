@@ -1,3 +1,5 @@
+https://leetcode.com/problems/two-sum/submissions/2192095716
+
 ## 1. Clarify
 1. Is the array guaranteed to contain at least 2 elements?
 2. Can the array contain negative numbers? (Even though it shouldn't affect the solution)
