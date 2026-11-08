@@ -8,7 +8,7 @@
 6. **Implement**
 7. **Catch API/type bugs**
 8. **Improve to one-pass** - Ideally one pass on the input only
-
+9. **Manual Dry Run** - Validate manually before executing
 
 ## Data Structures
 
