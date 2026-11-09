@@ -1,0 +1,15 @@
+{
+  "name": "two-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/solution.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "npm run build && node dist/solution.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
