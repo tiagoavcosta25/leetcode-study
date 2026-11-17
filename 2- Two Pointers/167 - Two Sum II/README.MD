@@ -1,4 +1,4 @@
-https://leetcode.com/problems/two-sum/submissions/2192095716
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 
 ## 1. Clarify
 1. What's the expected size of the array
