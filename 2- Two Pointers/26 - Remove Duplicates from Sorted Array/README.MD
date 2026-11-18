@@ -1,4 +1,4 @@
-https://leetcode.com/problems/valid-palindrome/
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 ## 1. Clarify
 1. What is the expected input size
